@@ -1,0 +1,9 @@
+model 2 is currently best for steering with constant speed 
+
+model 3 is currently best steering and speed but speed 
+is almost constant and slow , and did stoped once 
+
+
+model 7 is currently the best in steering with predicted speed and could 
+be presented in the seminar but it's slow 
+
