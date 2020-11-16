@@ -1,0 +1,8 @@
+1 - download the simulator 
+2 - activate the conda environment with the 
+needed dependinces 
+3 - write this line in a command line 
+python multi_drive.py "model_name.h5"
+
+4 - open the simulator on the jungle track , autonomous mode
+

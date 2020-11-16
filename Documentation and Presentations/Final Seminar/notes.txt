@@ -1,0 +1,9 @@
+where to put the system interaction diagram !!!???
+
+should I add the hardware stuff !!!???
+
+Should I mention the preprocessing and augmentation !!???
+
+
+- send to doctor dina and doctor maryam about the mistake in the 
+schedule 

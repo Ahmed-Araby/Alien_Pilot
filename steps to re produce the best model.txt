@@ -1,8 +1,13 @@
-so bets settings are 
-no augmentation other than camer synthesis 
+# Augmentation:
+camera synthesis 
+
+# preprocessing:
+in addition to preprocessing on the image input 
+speed values will also be preprocessed 
+speed value sampling trick: put the values of the speed 
+into a realistic range as the values recorded by the
+simulator is to noisy.
+
+# hyper parameters 
 0.0001 then 0.00001 as learnign rate after 10 epochs 
 then do it for 6 epochs more 
-
-
-
-speed sampling trick old one 
